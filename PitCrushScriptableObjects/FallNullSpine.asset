@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120f21f24c5b0094a803f5f4e691a1ba, type: 3}
+  m_Name: FallNullSpine
+  m_EditorClassIdentifier: 
+  name: The Fall Null Spine
+  description: Completely Nullifies Fall Damage
+  artwork: {fileID: 2184962344785942956, guid: 05f824a4852af124d978cc6a38cc080f, type: 3}
+  healthAdjust: 0
+  JumpHeight: 0
+  jumpSpeed: 0
+  moveSpeed: 0
+  MinimumDamageFallHeight: 10000
+  MaxDamageFallHeight: 20000
